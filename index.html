@@ -356,20 +356,27 @@
 		<script src="js/theme.js"></script>
 
 		<script>
-			buyINU();
+			$("#slider1").hide();
+			$("#slider2").hide();
 
 			function buyINU() {
-				$("#slider1").show();
 				$("#slider2").hide();
-				$("#buyINU").hide();
-				$("#addLiq").show();
+				if($("#slider1").css('display') == 'none'){
+					$("#slider1").show();				
+				}
+				else {
+					$("#slider1").hide();
+				}
 			}
 
-			function addLiq() {
-				$("#slider2").show();
+			function addLiq() {				
 				$("#slider1").hide();
-				$("#buyINU").show();
-				$("#addLiq").hide();
+				if($("#slider2").css('display') == 'none'){
+					$("#slider2").show();				
+				}
+				else {
+					$("#slider2").hide();
+				}				
 			}
 			Highcharts.chart('pie', {
 				chart: {
