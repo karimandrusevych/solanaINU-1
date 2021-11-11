@@ -335,7 +335,8 @@ body .theme-button:hover span {opacity: 1;}
 }
 .color-white #mega-menu-holder ul> li> a,.color-white #polyglotLanguageSwitcher>a,
 .theme-main-menu.color-white .right-widget .login-button a {color: #fff;}
-.theme-main-menu.color-white #mega-menu-holder .navbar-toggler {background: #fff;}
+.theme-main-menu.color-white #mega-menu-holder .navbar-toggler {background: transparent;
+  border: 1px solid #efd421;}
 /*================= Sticky Menu ===============*/
 .theme-main-menu.fixed {
   z-index: 9999;
