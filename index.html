@@ -341,8 +341,12 @@
 		<script src="js/theme.js"></script>
 
 		<script>
-			$("#slider1").hide();
-			$("#slider2").hide();
+			setTimeout(function () {
+				$("#slider1").hide()
+				$("#slider2").hide()
+				$("#slider1").css('opacity', 1)
+				$("#slider2").css('opacity', 1)
+			})
 
 			function buyINU() {
 				$("#slider2").hide();
