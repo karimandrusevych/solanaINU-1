@@ -47,7 +47,7 @@
 
 @media (max-width: 991px) {
   .theme-main-menu .right-widget {
-    margin-top: 7px;
+    margin-top: 16px;
   }
   .theme-main-menu #mega-menu-holder.dark-bg .navbar-nav {background:#0303b7d4; }
   #mega-menu-holder.dark-bg ul> li> a {border-bottom: 1px solid rgba(255,255,255,0.08);}
