@@ -2096,3 +2096,14 @@ body .theme-button:hover span {opacity: 1;}
 .theme-main-menu .right-widget .coingecko {
   margin-top: 7px;
 }
+
+.owl-carousel .owl-item {
+  height: 100px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partner-slider .item a {
+  padding: 0px 20px;
+}
