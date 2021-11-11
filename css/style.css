@@ -263,7 +263,7 @@ body .theme-button:hover span {opacity: 1;}
 .theme-main-menu.full-width {padding: 55px 80px 0;}
 .menu-wrapper {position: relative;}
 .theme-main-menu .logo {float: left;}
-.theme-main-menu .logo a {display: block;margin-top: -10px;}
+.theme-main-menu .logo a {display: block;margin-top: -20px;}
 .theme-main-menu #mega-menu-holder,.theme-main-menu .right-widget {float: right;padding: 0;}
 .theme-main-menu .right-widget {position: relative;z-index: 9;}
 #mega-menu-holder ul> li> a {
@@ -813,7 +813,7 @@ body .theme-button:hover span {opacity: 1;}
 .apps-overview .inner-wrapper .text h6 {
   font-family: 'proxima_novaregular';
   font-size: 16px;
-  color: #7f9eeb;
+  color: #d0d0d9;
   padding-bottom: 20px;
   word-break: break-all;
 }
@@ -848,7 +848,7 @@ body .theme-button:hover span {opacity: 1;}
   position: absolute;
   z-index: 1;
 }
-.apps-overview.color-two {background: #2a17a9;margin-bottom: 0;}
+.apps-overview.color-two {background: #8b29cc;margin-bottom: 0;}
 .apps-overview.color-two .inner-wrapper .button-group li a:hover {background: #00c9d7;color: #fff;}
 .apps-overview.color-three {background: #610bcf; padding: 160px 0 250px;margin-bottom: 50px;}
 .apps-overview.color-three .shape {
@@ -1175,7 +1175,7 @@ body .theme-button:hover span {opacity: 1;}
   color: #fff;
   margin-left: 5px;
 }
-.theme-footer.dark-style {background: #2c19ae;}
+.theme-footer.dark-style {background: #8b29cc;}
 .theme-footer.dark-style .top-footer-data-wrapper {
   border-top:1px solid rgba(241,241,241,0.08);
   border-bottom:1px solid rgba(241,241,241,0.08);
@@ -1332,7 +1332,7 @@ body .theme-button:hover span {opacity: 1;}
 }
 /*-------------------- Token Sale -----------------*/
 .token-sale-section.dark-bg {
-  background: #2a17a9;
+  background: #8b29cc;
   position: relative;
   z-index: 1;
 }
@@ -1485,7 +1485,7 @@ body .theme-button:hover span {opacity: 1;}
   font-weight: normal;
 }
 .our-road-map .time-line-wrapper #timeline-frame .roadmap__events__event .event {
-  border: 1px solid #282fea;
+  border: 1px solid #4312bb;
   border-radius: 3px;
   width: 100%;
   height: 100%;
@@ -1495,9 +1495,9 @@ body .theme-button:hover span {opacity: 1;}
   content: '';
   width: 10px;
   height: 10px;
-  border-left: 1px solid #282fea;
-  border-bottom: 1px solid #282fea;
-  background: #1217a4;
+  border-left: 1px solid #4312bb;
+  border-bottom: 1px solid #4312bb;
+  background: #3506ad;
   position: absolute;
   left: 50%;
   margin-left: -5px; 
@@ -1518,18 +1518,18 @@ body .theme-button:hover span {opacity: 1;}
 .our-road-map .time-line-wrapper #timeline-frame .roadmap__events__event .event p {
   font-size: 16px;
   line-height: initial;
-  color: #7b7ffb;
+  color: #3506ad;
   padding-top: 10px;
 }
 .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events:after {
   height: 2px;
-  background: #282ed7;
+  background: #4312bb;
 }
 .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events__event:before {
   width: 11px;
   height: 11px;
-  border: 2px solid #363bda;
-  background: #0c12ac;
+  border: 2px solid #4312bb;
+  background: #3506ad;
   z-index: 1;
 }
 .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events__event:nth-child(odd):before {top:32px;}
@@ -2076,9 +2076,19 @@ body .theme-button:hover span {opacity: 1;}
 }
 
 #faq a {
-  color:#7b7ffb;
+  color:#d0d0d9;
 }
 
 #slider2 img {
   width: 234px;
+}
+
+.theme-main-menu .logo a img {
+  width: 80px;
+}
+
+.theme-main-menu.fixed .logo a img {
+  margin-top: -10px;
+  position: relative;
+  top:10px;
 }
