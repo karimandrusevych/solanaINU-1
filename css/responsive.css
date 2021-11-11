@@ -98,11 +98,11 @@
   .theme-footer .top-footer-data-wrapper [class*="col-"] {padding-bottom: 40px;}
   .theme-footer .top-footer-data-wrapper {padding: 50px 0 20px;}
   .theme-footer .bottom-footer {padding: 30px 0;}
-  .about-cryto,.our-features-three {padding: 80px 0 100px;}
+  .about-cryto,.our-features-three {padding: 0px;}
   .our-feature-two.dark-bg {padding: 100px 0 80px 0;}
-  .token-sale-section .overlay {padding: 100px 0;}
+  .token-sale-section .overlay {padding: 0px;}
   .about-cryto img {margin: 40px auto 0;}
-  .our-features-three .theme-title,.token-sale-section .theme-title,.our-road-map .theme-title {padding-bottom: 100px;}
+  .our-features-three .theme-title,.token-sale-section .theme-title,.our-road-map .theme-title {padding-bottom: 0px;}
   .token-sale-section .theme-title p,.our-road-map .theme-title p {padding: 15px 0 0;}
   .token-sale-section .token-sale-text .title-wrapper {text-align: left;padding: 0;margin-bottom: 45px;}
   .token-sale-section .token-sale-text .title-wrapper .title {padding-bottom: 10px;}
@@ -135,7 +135,10 @@
   }
   .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events__event:nth-child(odd):before,
   .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events__event:nth-child(even):before {top:50%;bottom: auto;margin-top: -5px;}
-  .our-road-map,.contact-section-dark {padding: 100px 0;}
+  .our-road-map,.contact-section-dark, #faq {padding: 50px;}
+  #faq {
+    padding-top: 0px;padding-bottom: 0px;
+  }
   .theme-main-sidebar {padding-top: 100px;}
   .theme-pagination {padding-top: 0;}
   .theme-main-menu .logo a {margin: 0;}
