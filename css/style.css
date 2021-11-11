@@ -1336,12 +1336,7 @@ body .theme-button:hover span {opacity: 1;}
   position: relative;
   z-index: 1;
 }
-.token-sale-section .overlay {
-  background: url(../images/home/bg7.png) no-repeat center center;
-  background-size: cover;
-  padding: 130px 0 200px;
-  position: relative;
-}
+
 .token-sale-section .overlay .cube-shape-one {
   position: absolute;
   right: 0;
