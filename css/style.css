@@ -474,10 +474,10 @@ body .theme-button:hover span {opacity: 1;}
 
 .theme-banner-two .main-text-wrapper h1 {color: #fff;}
 .theme-banner-two .main-text-wrapper p {
-  color: rgba(255,255,255,0.8);
-  font-size: 24px;
-  line-height: 38px;
-  padding: 20px 0 50px;
+  color: #d0d0d9;
+  font-size: 18px;
+  line-height: 28px;
+  padding: 10px 0 10px;
 }
 .theme-banner-two .main-text-wrapper .button-group li a {
   font-family: 'proxima_novaregular';
