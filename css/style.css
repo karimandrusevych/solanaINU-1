@@ -1469,7 +1469,7 @@ body .theme-button:hover span {opacity: 1;}
   padding: 15px 240px 0;
 }
 .our-road-map .time-line-wrapper {width: 76%;margin: 0 auto;}
-.our-road-map .theme-title {padding-bottom: 180px;}
+.our-road-map .theme-title {padding-bottom: 100px;}
 .roadmap.roadmap--orientation-auto,.roadmap.roadmap--orientation-auto .roadmap__events {
   width: 100%;
 }
