@@ -146,7 +146,7 @@
   font-size: 18px;
   position: relative;
  }
-.main-page-wrapper {overflow-x:hidden;}
+.main-page-wrapper {overflow:hidden;}
  h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
  h1,h2,h3,h4,h5,h6 {color:#283249;}
  h1 {font-family: 'proxima_novaregular'; font-size: 50px; line-height: 75px;}
@@ -475,9 +475,9 @@ body .theme-button:hover span {opacity: 1;}
 .theme-banner-two .main-text-wrapper h1 {color: #fff;}
 .theme-banner-two .main-text-wrapper p {
   color: #d0d0d9;
-  font-size: 18px;
-  line-height: 28px;
-  padding: 10px 0 10px;
+  font-size: 24px;
+  line-height: 38px;
+  padding: 20px 0 50px;
 }
 .theme-banner-two .main-text-wrapper .button-group li a {
   font-family: 'proxima_novaregular';
@@ -1481,7 +1481,7 @@ body .theme-button:hover span {opacity: 1;}
 .our-road-map .time-line-wrapper #timeline-frame .event__date {
   font-family: 'proxima_novaregular';
   font-size: 22px;
-  color: #fff;
+  color: #efd421;
   font-weight: normal;
 }
 .our-road-map .time-line-wrapper #timeline-frame .roadmap__events__event .event {
@@ -1594,7 +1594,7 @@ body .theme-button:hover span {opacity: 1;}
 .contact-section-dark {
   position: relative;
   background: #191eae;
-  padding: 295px 0 140px;
+  padding: 100px 0 100px;
 }
 .contact-section-dark:before {
   content: url(../images/shape/15.png);
@@ -1607,11 +1607,14 @@ body .theme-button:hover span {opacity: 1;}
   top:55%;
   right: 0;
 }
-.contact-section-dark .theme-title h2 {color: #fff;}
-.contact-section-dark .theme-title p {
+.contact-section-dark .theme-title h3 {color: #dbc52e;
   font-size: 20px;
-  color: rgba(255,255,255,0.6);
-  padding-top: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1.8px;}
+.contact-section-dark .theme-title h2 {
+  padding: 0px;
+  font-size: 22px;
+  line-height: 45px;
 }
 .contact-section-dark form {
   padding: 70px 100px 0;
