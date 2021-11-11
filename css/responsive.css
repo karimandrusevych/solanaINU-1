@@ -215,7 +215,7 @@
   .theme-footer .bottom-footer .copyright {float: none;text-align: center;padding-bottom: 20px;}
   .theme-footer .bottom-footer ul {float: none;text-align: center;}
   #theme-banner .button-group {margin: 0 -5px;}
-  #theme-banner .button-group>li {float: none;padding: 5px 0;}
+  #theme-banner .button-group>li {float: none;}
   .apps-overview .inner-wrapper .button-group li {display: block;margin:0;padding: 5px 0;}
   .our-road-map .time-line-wrapper #timeline-frame .roadmap__events__event .event {width: auto;padding: 22px 25px 0;}
   .contact-section-dark form {padding: 70px 0 0;}
