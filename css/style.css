@@ -2079,10 +2079,6 @@ body .theme-button:hover span {opacity: 1;}
   color:#d0d0d9;
 }
 
-#slider2 img {
-  width: 234px;
-}
-
 .theme-main-menu .logo a img {
   width: 80px;
 }
@@ -2098,12 +2094,5 @@ body .theme-button:hover span {opacity: 1;}
 }
 
 .owl-carousel .owl-item {
-  height: 100px;
-  display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.partner-slider .item a {
-  padding: 0px 20px;
+  width: 234px!important;
 }
