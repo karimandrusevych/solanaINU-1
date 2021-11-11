@@ -1165,7 +1165,7 @@ body .theme-button:hover span {opacity: 1;}
 .theme-footer .bottom-footer {padding: 45px 0;}
 .theme-footer .bottom-footer .copyright {float: left;font-size: 17px;line-height: 34px;}
 .theme-footer .bottom-footer ul {float: right;}
-.theme-footer .bottom-footer ul li {display: inline-block;}
+.theme-footer .bottom-footer ul li {display: inline-block;margin-right: 5px;}
 .theme-footer .bottom-footer ul li a {
   width: 34px;
   height: 34px;
@@ -2090,4 +2090,8 @@ body .theme-button:hover span {opacity: 1;}
   margin-top: -10px;
   position: relative;
   top:10px;
+}
+
+.theme-main-menu .right-widget .coingecko {
+  margin-top: 7px;
 }
