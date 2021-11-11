@@ -211,19 +211,19 @@
             var events = [
             {
               date: 'Phase 1',
-              content: '<p>Fair Launch of Token Listings of <span style="color:white;">Multiple Dex\'s</span><br>Begin Strategic Airdrops <br>Create <span style="color:white;">INU/USDC</span> Liquidity Pool</p>'
+              content: '<p>Fair Launch of Solana INU<br>Listings on Multiple DEX Platforms<br>Begin Strategic Airdrops</p>'
             },
             {
               date: 'Phase 2',
-              content: '<p><span style="color:white;">Sending Sacrificial Burn</span> to The Solana Gods (Sam Bankman-Fried, Anatoly Yakovenko) Begin <span style="color:white;">Infulencer Marketing</span> Listings on CMC&Coin Gecko</p>'
+              content: '<p>Create INU/USDC Liquidity Pool<br>Send 69 Million Solana INU To Burn<br>List on CMC and Coin Gecko</p>'
             },
             {
               date: 'Phase 3',
-              content: '<p>Intergrate Uield Farming<br>Creation of <span style="color:white;">INU Dex</span><br>Create Faucet/Staking app</p>'
+              content: '<p>Integrate Yield Farming<br>Begin Influencer Marketing<br>Creation of INU DEX</p>'
             },
             {
               date: 'Phase 4',
-              content: '<p>Increase Dex Listings<br>CEX <span style="color:white;">Exchange Listings</span><br>Start Charitable Donations</p>'
+              content: '<p>Increase DEX and CEX Listings<br>Start Charitable Donations<br>Create Faucet</p>'
             },
             {
               date: 'Phase 5',

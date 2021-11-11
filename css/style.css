@@ -848,7 +848,7 @@ body .theme-button:hover span {opacity: 1;}
   position: absolute;
   z-index: 1;
 }
-.apps-overview.color-two {background: #8b29cc;margin-bottom: 0;}
+.apps-overview.color-two {background: #111ba8;margin-bottom: 0;}
 .apps-overview.color-two .inner-wrapper .button-group li a:hover {background: #00c9d7;color: #fff;}
 .apps-overview.color-three {background: #610bcf; padding: 160px 0 250px;margin-bottom: 50px;}
 .apps-overview.color-three .shape {
@@ -1175,7 +1175,7 @@ body .theme-button:hover span {opacity: 1;}
   color: #fff;
   margin-left: 5px;
 }
-.theme-footer.dark-style {background: #8b29cc;}
+.theme-footer.dark-style {background: #191eae;}
 .theme-footer.dark-style .top-footer-data-wrapper {
   border-top:1px solid rgba(241,241,241,0.08);
   border-bottom:1px solid rgba(241,241,241,0.08);
@@ -1332,7 +1332,7 @@ body .theme-button:hover span {opacity: 1;}
 }
 /*-------------------- Token Sale -----------------*/
 .token-sale-section.dark-bg {
-  background: #8b29cc;
+  background: #1217a4;
   position: relative;
   z-index: 1;
 }
@@ -1485,7 +1485,7 @@ body .theme-button:hover span {opacity: 1;}
   font-weight: normal;
 }
 .our-road-map .time-line-wrapper #timeline-frame .roadmap__events__event .event {
-  border: 1px solid #4312bb;
+  border: 1px solid #282fea;
   border-radius: 3px;
   width: 100%;
   height: 100%;
@@ -1495,9 +1495,9 @@ body .theme-button:hover span {opacity: 1;}
   content: '';
   width: 10px;
   height: 10px;
-  border-left: 1px solid #4312bb;
-  border-bottom: 1px solid #4312bb;
-  background: #3506ad;
+  border-left: 1px solid #282fea;
+  border-bottom: 1px solid #282fea;
+  background: #1217a4;
   position: absolute;
   left: 50%;
   margin-left: -5px; 
@@ -1523,13 +1523,13 @@ body .theme-button:hover span {opacity: 1;}
 }
 .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events:after {
   height: 2px;
-  background: #4312bb;
+  background: #282ed7;
 }
 .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events__event:before {
   width: 11px;
   height: 11px;
-  border: 2px solid #4312bb;
-  background: #3506ad;
+  border: 2px solid #363bda;
+  background: #0c12ac;
   z-index: 1;
 }
 .our-road-map .roadmap.roadmap--orientation-auto .roadmap__events__event:nth-child(odd):before {top:32px;}
