@@ -1462,6 +1462,7 @@ body .theme-button:hover span {opacity: 1;}
 .our-road-map {
   background: #1217a4;
   position: relative;
+  padding-bottom: 150px;
 }
 .our-road-map .theme-title p {
   color: #d0d0d9;
